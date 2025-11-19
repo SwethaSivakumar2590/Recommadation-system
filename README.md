@@ -213,5 +213,4 @@ Project inspired by:
 Original article link:
 [https://amanxai.com/2025/06/17/recommendation-system-using-python-and-tensorflow/](https://amanxai.com/2025/06/17/recommendation-system-using-python-and-tensorflow/)
 
-
 Just tell me!
