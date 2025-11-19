@@ -1,10 +1,5 @@
-Great — here is a **ready-to-use professional README.md** for your GitHub project based on the article *“Recommendation System using Python and TensorFlow”*.
 
-You can copy-paste this directly into your **README.md** file.
-
----
-
-# 📺 Content-Based Recommendation System using Python & TensorFlow
+ Content-Based Recommendation System using Python & TensorFlow
 
 A deep-learning–based **content recommendation system** built using **TensorFlow**, trained on **Netflix titles metadata**, and capable of recommending similar shows/movies based on embeddings learned from content features.
 
